@@ -10,7 +10,7 @@ Created new measures like Presence %, SL %, and Working Hours
 Designed an interactive and easy-to-read dashboard for HR use
 Highlighted important employee trends using charts and KPIs
 
-Tools Used: Power BI
-Power Query
-DAX
+Tools Used: Power BI,
+Power Query,
+DAX,
 Excel (dataset)
